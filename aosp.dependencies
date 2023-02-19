@@ -22,5 +22,5 @@
    "target_path" : "device/mediatek/sepolicy_vndr", 
    "remote"      : "pixel", 
    "branch"      : "thirteen"
- },
+ }
 ]
