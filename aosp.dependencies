@@ -1,0 +1,26 @@
+[
+ {
+   "repository"  : "kernel_realme_mt6785",
+   "target_path" : "kernel/realme/mt6785",
+   "remote"      : "pixel-devices",
+   "branch"      : "thirteen"
+ },
+ {
+   "repository"  : "vendor_realme_RM6785",
+   "target_path" : "vendor/realme/RM6785",
+   "remote"      : "pixel-devices-blobs",
+   "branch"      : "thirteen"
+ },
+ {
+   "repository"  : "vendor_realme-firmware",
+   "target_path" : "vendor/realme-firmware",
+   "remote"      : "pixel-devices-blobs",
+   "branch"      : "thirteen"
+ },
+ {
+   "repository"  : "device_mediatek_sepolicy_vndr", 
+   "target_path" : "device/mediatek/sepolicy_vndr", 
+   "remote"      : "pixel", 
+   "branch"      : "thirteen"
+ }
+]
