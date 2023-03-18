@@ -571,4 +571,8 @@
 
     <!-- The number of volume steps for the ring stream -->
     <integer name="config_audio_ring_vol_steps">15</integer>
+
+    <!-- The type of the light sensor to be used by the display framework for things like
+         auto-brightness. If unset, then it just gets the default sensor of type TYPE_LIGHT. -->
+    <string name="config_displayLightSensorType" translatable="false">android.sensor.light</string>
 </resources>
