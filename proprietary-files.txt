@@ -326,10 +326,6 @@ vendor/etc/usb_audio_policy_configuration.xml
 -vendor/lib64/libwebrtc_audio_preprocessing.so
 -vendor/lib64/vendor.mediatek.hardware.audio@6.1.so
 
-# Bluetooth (aptX)
--lib64/libaptXHD_encoder.so
--lib64/libaptX_encoder.so
-
 # Bluetooth
 -vendor/bin/hw/android.hardware.bluetooth@1.0-service-mediatek
 -vendor/bin/autobt
